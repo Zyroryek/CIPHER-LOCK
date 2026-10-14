@@ -1,0 +1,6 @@
+{
+  "name": "ZERO//DAY — TECH ESCAPE LAB",
+  "description": "Full-stack cybersecurity investigation escape room game featuring isometric office forensics, CCTV timeline analysis, suspect case board, and persistent team scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,110 @@
+{
+  "sessions": {
+    "sess-main-tech-fest": {
+      "id": "sess-main-tech-fest",
+      "sessionCode": "TECH-2026",
+      "title": "COLLEGE CYBER TECH ESCAPE COMPETITION",
+      "status": "ACTIVE",
+      "durationSeconds": 1500,
+      "createdAt": "2026-10-14T05:57:56.682Z"
+    }
+  },
+  "participants": {},
+  "gameStates": {},
+  "submissions": [],
+  "auditLogs": [
+    {
+      "id": "init-audit-1",
+      "action": "COMPETITION_INITIALIZED",
+      "details": {
+        "message": "Competition gateway initialized. Student database is clean."
+      },
+      "timestamp": "2026-10-14T07:50:00.000Z"
+    },
+    {
+      "id": "audit-clean-all",
+      "action": "ORGANISER_CLEARED_ALL_PARTICIPANTS",
+      "details": {
+        "message": "All student details, game states, and submissions removed from database."
+      },
+      "timestamp": "2026-10-14T07:50:00.000Z"
+    },
+    {
+      "id": "audit-1791964186879",
+      "action": "PARTICIPANT_CREATED",
+      "details": {
+        "id": "student-1791964186879",
+        "username": "testuser",
+        "studentName": "Test Student"
+      },
+      "timestamp": "2026-10-14T07:49:46.879Z"
+    },
+    {
+      "id": "audit-1791964186885",
+      "action": "ORGANISER_CLEARED_ALL_PARTICIPANTS",
+      "details": {
+        "timestamp": "2026-10-14T07:49:46.885Z",
+        "message": "All student details, game states, and submissions removed from database."
+      },
+      "timestamp": "2026-10-14T07:49:46.885Z"
+    },
+    {
+      "id": "audit-1791964407719",
+      "action": "PARTICIPANT_CREATED",
+      "details": {
+        "id": "student-1791964407719",
+        "username": "cyber_lead",
+        "studentName": "Maya Lin"
+      },
+      "timestamp": "2026-10-14T07:53:27.719Z"
+    },
+    {
+      "id": "audit-1791964407740",
+      "action": "ROUND_1_STARTED",
+      "details": {
+        "participantId": "student-1791964407719",
+        "startedAt": "2026-10-14T07:53:27.740Z"
+      },
+      "timestamp": "2026-10-14T07:53:27.740Z"
+    },
+    {
+      "id": "audit-1791964407740",
+      "action": "PARTICIPANT_LOGIN",
+      "details": {
+        "participantId": "student-1791964407719",
+        "username": "cyber_lead",
+        "teamName": "Cyber Sentinels"
+      },
+      "timestamp": "2026-10-14T07:53:27.740Z"
+    },
+    {
+      "id": "audit-1791964407749",
+      "action": "PARTICIPANT_LOGIN",
+      "details": {
+        "participantId": "student-1791964407719",
+        "username": "cyber_lead",
+        "teamName": "Cyber Sentinels"
+      },
+      "timestamp": "2026-10-14T07:53:27.749Z"
+    },
+    {
+      "id": "audit-1791964407754",
+      "action": "PARTICIPANT_LOGIN",
+      "details": {
+        "participantId": "student-1791964407719",
+        "username": "cyber_lead",
+        "teamName": "Cyber Sentinels"
+      },
+      "timestamp": "2026-10-14T07:53:27.754Z"
+    },
+    {
+      "id": "audit-1791964407768",
+      "action": "ORGANISER_CLEARED_ALL_PARTICIPANTS",
+      "details": {
+        "timestamp": "2026-10-14T07:53:27.768Z",
+        "message": "All student details, game states, and submissions removed from database."
+      },
+      "timestamp": "2026-10-14T07:53:27.768Z"
+    }
+  ]
+}
